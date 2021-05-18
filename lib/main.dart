@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:cocina/pages/example1.dart';
+import 'package:cocina/pages/example2.dart';
 
 void main() {
   runApp(MaterialApp(
@@ -21,7 +22,7 @@ class FirstRoute extends StatelessWidget {
           onPressed: () {
             Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => Example1()),
+              MaterialPageRoute(builder: (context) => Example2()),
             );
           },
         ),

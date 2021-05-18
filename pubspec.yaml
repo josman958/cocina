@@ -49,6 +49,7 @@ flutter:
   assets:
     - assets/dado.mp3
     - assets/img.png
+    - assets/prueba.jpg
   #   - images/a_dot_ham.jpeg
     
   # An image asset can refer to one or more resolution-specific "variants", see
